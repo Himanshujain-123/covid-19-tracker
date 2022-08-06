@@ -25,6 +25,9 @@ _ _ _
 
 Just clone the repo and run `npm install` followed by `node app.js`:
 
+## Conntributors
+
+
 ```bash
 $ git clone --origin=upstream --branch=main --single-branch \
     https://github.com/Mustafiz04/Covid-19-website/ covid19
