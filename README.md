@@ -26,7 +26,7 @@ _ _ _
 Just clone the repo and run `npm install` followed by `node app.js`:
 
 ## Contributors
-Himanshu Jain(http://www.linkedin.com/in/himanshujain0457)
+* [Himanshu Jain](http://www.linkedin.com/in/himanshujain0457)
 
 
 ```bash
